@@ -1,0 +1,9 @@
+{
+  "name": "grunt",
+  "version": "0.1.0",
+  "devDependencies": {
+    "grunt": "~0.4",
+    "grunt-contrib-compass": "~0.4",
+    "grunt-contrib-watch": "~0.4.3"
+  }
+}

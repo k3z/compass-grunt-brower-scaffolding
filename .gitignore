@@ -1,0 +1,13 @@
+*.pyc
+bin/
+include/
+lib/
+app.egg-info/
+node_modules/
+app/_sprite_parts
+.Python
+production/
+node_modules/
+.sass-cache/
+www/assets/components/
+www/assets/css/

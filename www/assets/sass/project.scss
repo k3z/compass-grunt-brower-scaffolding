@@ -1,0 +1,21 @@
+@import "compass";
+@import "bootstrap";
+
+body {
+    padding-top: 50px;
+    @include background-image(linear-gradient(white, #aaaaaa));
+    background-attachment: fixed;
+}
+
+.subscribe {
+    width: 100%;
+    position: fixed;
+}
+
+.articles {
+    background-color: white;
+    padding: 40px;
+    @include border-corner-radius(top, left);
+    @include border-corner-radius(top, right);
+    @include single-box-shadow(#aaa);
+}
